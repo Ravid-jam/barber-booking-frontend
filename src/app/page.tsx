@@ -12,7 +12,7 @@ export default function Home() {
       <div className=" flex  justify-center w-full h-full">
         <div className="absolute -bottom-60 flex flex-col gap-20 h-full">
           <div className="flex flex-col  items-center gap-5">
-            <img src="/assets/logo.png" className="w-[68px] h-[62px]" />
+            <img src="/assets/Logo.png" className="w-[68px] h-[62px]" />
             <div className="flex flex-col gap-4 items-center justify-center">
               <h1 className="text-4xl max-w-xs text-center font-bold text-black">
                 Book your haircut in seconds

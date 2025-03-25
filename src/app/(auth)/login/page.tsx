@@ -6,7 +6,7 @@ export default function Page() {
       <div className="flex flex-col gap-44">
         <div className="flex flex-1 flex-col items-center mt-10   gap-10">
           <div className="flex flex-col gap-5 items-center">
-            <img src="/assets/logo.png" className="w-[68px] h-[62px]" />
+            <img src="/assets/Logo.png" className="w-[68px] h-[62px]" />
             <h1 className="text-black font-bold text-[34px]">Welcome back.</h1>
           </div>
           <form className="w-full flex flex-col items-center gap-7">
