@@ -31,7 +31,10 @@ export default function Home() {
               >
                 Log In
               </button>
-              <button className="text-black bg-none  border border-black font-medium rounded-lg text-base h-[60px] mx-3">
+              <button
+                onClick={() => router.push("/home")}
+                className="text-black bg-none  border border-black font-medium rounded-lg text-base h-[60px] mx-3"
+              >
                 Register
               </button>
             </div>
